@@ -91,7 +91,7 @@ monthly_sales.plot(kind='line', title='Monthly Revenue Trend')
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/<your-username>/ecommerce-data-pipeline.git
+git clone https://github.com/christian-mossoke/ecommerce-data-pipeline.git
 cd ecommerce-data-pipeline
 pip install -r requirements.txt
 ```
